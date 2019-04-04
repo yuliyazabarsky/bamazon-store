@@ -1,0 +1,25 @@
+{
+  "name": "bamazon-store",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bamazon.js",
+  "dependencies": {
+    "inquirer": "^6.2.2",
+    "mysql": "^2.16.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuliyazabarsky/bamazon-store.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuliyazabarsky/bamazon-store/issues"
+  },
+  "homepage": "https://github.com/yuliyazabarsky/bamazon-store#readme"
+}
