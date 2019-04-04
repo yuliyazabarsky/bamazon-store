@@ -16,7 +16,10 @@ The products table should have each of the following columns:
 Populate this database with around 10 different products. 
 Running BamazinSuctomer app will:
 
+<img width="573" alt="bamazon-Customers" src="https://user-images.githubusercontent.com/44987476/55530464-7d924600-5663-11e9-9f28-c8447ace79c7.png">
+
 * First display all of the items available for sale. Include the ids, names, and prices of products for sale.
+
 
 * App prompts users with two messages: 
 The first should ask them the ID of the product they would like to buy.
