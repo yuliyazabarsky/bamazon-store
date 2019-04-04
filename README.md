@@ -12,9 +12,11 @@ The products table should have each of the following columns:
 * department_name
 * price (cost to customer)
 * stock_quantity (how much of the product is available in stores)
+<img width="589" alt="Producs-Table" src="https://user-images.githubusercontent.com/44987476/55530746-9818ef00-5664-11e9-8877-faa5f915ee6c.png">
 
 Populate this database with around 10 different products. 
-Running BamazinSuctomer app will:
+
+Running BamazonCustomer app will:
 
 <img width="573" alt="bamazon-Customers" src="https://user-images.githubusercontent.com/44987476/55530464-7d924600-5663-11e9-9f28-c8447ace79c7.png">
 
